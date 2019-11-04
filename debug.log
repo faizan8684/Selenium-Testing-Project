@@ -1,0 +1,3 @@
+[0206/213536.199:ERROR:exception_snapshot_win.cc(87)] thread ID 2432 not found in process
+[0206/213536.200:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0211/072350.279:ERROR:settings.cc(261)] Settings magic is not 1129342067
